@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an app called passion
 - 🌱 I’m currently learning Flutter
 
 <!--
