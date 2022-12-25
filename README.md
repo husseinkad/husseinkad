@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Flutter
-- 🌱 And Django
+- 🌱 And problem solving 
 
 <!--
 **xbanker3/xbanker3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
