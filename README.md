@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-- 🧑‍💻 I'm currently learning flutter and problem solving 
+- 🧑‍💻 I'm currently learning vue.js
 
 
 ## 🌐 Socials:
