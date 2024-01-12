@@ -2,7 +2,8 @@
 
 
 # 💫 About Me:
-- 🧑‍💻 I'm currently learning vue.js
+- 🧑‍💻 I'm currently an intern at digtal logic
+- 🧑‍💻 I develop responsive mobile apps the best you could ever see 
 
 
 ## 🌐 Socials:
