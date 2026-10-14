@@ -12,11 +12,13 @@ Site: [husseinkad.com](https://husseinkad.com)
 
 Earlier work includes Flutter and Dart mobile apps, Vue dashboards, and some Python and C#. Most of my client and employer code sits in private repos, so this profile shows less than I have shipped.
 
-## Public work
+## Work you can open
 
 | Project | What it is |
 | --- | --- |
 | [husseinkad.com](https://husseinkad.com) | My own site. Portfolio, writing, and services. |
+| [voca-iq.com](https://voca-iq.com) | Platform where Iraqi learners book affordable one to one English sessions. I built the front end in React over seven months. |
+| [khana.jobs](https://khana.jobs) | Jobs platform. I redesigned the interface, rebuilt the mobile navigation, and worked on the AI search features. |
 | [fingerprint-system](https://github.com/husseinkad/fingerprint-system) | Employee attendance with a fingerprint reader and a live dashboard. [Demo](https://fingerprints.husseinkad.com) of the front end. The backend is not deployed yet. |
 
 ## Find me
