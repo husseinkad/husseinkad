@@ -4,6 +4,10 @@ Growth developer. I build the front end in Next.js and React, then run the growt
 
 Site: [husseinkad.com](https://husseinkad.com)
 
+## Hire me
+
+I take freelance work. Need a website, a web app, or a mobile app? [Message me on WhatsApp](https://wa.me/husseinkad) and tell me what you want built. I reply fast.
+
 ## What I do
 
 - **Front end.** Next.js, React, TypeScript, Tailwind. I wrote Vue for years before that.
@@ -24,4 +28,9 @@ Earlier work includes Flutter and Dart mobile apps, Vue dashboards, and some Pyt
 
 ## Find me
 
-[Instagram @husseinkad54](https://instagram.com/husseinkad54) · [LinkedIn](https://linkedin.com/in/husseinkadhim) · [YouTube](https://youtube.com/@husseinkad)
+- [WhatsApp](https://wa.me/husseinkad), the quickest way to reach me
+- [Instagram @husseinkad54](https://instagram.com/husseinkad54)
+- [LinkedIn](https://linkedin.com/in/husseinkadhim)
+- [Telegram](https://t.me/husseinkad)
+- [Facebook](https://www.facebook.com/profile.php?id=100082762223987)
+- [YouTube](https://youtube.com/@husseinkad)
