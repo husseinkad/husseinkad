@@ -16,6 +16,7 @@ Earlier work includes Flutter and Dart mobile apps, Vue dashboards, and some Pyt
 
 | Project | What it is |
 | --- | --- |
+| [rahal.net](https://rahal.net) | Rahal's website. I built it end to end, front end and back end, set up its search structure, write and publish the blog, and run the paid ad campaigns. |
 | [husseinkad.com](https://husseinkad.com) | My own site. Portfolio, writing, and services. |
 | [voca-iq.com](https://voca-iq.com) | Platform where Iraqi learners book affordable one to one English sessions. I built the front end in React over seven months. |
 | [khana.jobs](https://khana.jobs) | Jobs platform. I redesigned the interface, rebuilt the mobile navigation, and worked on the AI search features. |
