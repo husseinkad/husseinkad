@@ -12,9 +12,10 @@ I take freelance work. Need a website, a web app, or a mobile app? [Message me o
 
 - **Front end.** Next.js, React, TypeScript, Tailwind. I wrote Vue for years before that.
 - **Back end, when a project needs one.** Supabase for auth, database, storage, and admin panels.
+- **Mobile apps.** Flutter and React Native.
 - **Growth.** Paid ads, analytics and tracking setup, landing pages built to convert, and the technical SEO that decides whether Google and AI answer engines can read a site.
 
-Earlier work includes Flutter and Dart mobile apps, Vue dashboards, and some Python and C#. Most of my client and employer code sits in private repos, so this profile shows less than I have shipped.
+Earlier work includes Dart apps, Vue dashboards, and some Python and C#. Most of my client and employer code sits in private repos, so this profile shows less than I have shipped.
 
 ## Work you can open
 
